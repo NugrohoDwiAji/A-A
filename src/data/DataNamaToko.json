@@ -1,0 +1,22 @@
+[
+    { "id": 1,
+      "url":"/nivea.png", 
+      "nama":"Nivea"
+    },
+    { "id": 2,
+      "url":"/nivea.png", 
+      "nama":"Nivea"
+    },
+    { "id": 3,
+      "url":"/nivea.png", 
+      "nama":"Nivea"
+    },
+    { "id": 4,
+      "url":"/nivea.png", 
+      "nama":"Nivea"
+    },
+    { "id": 5,
+      "url":"/nivea.png", 
+      "nama":"Nivea"
+    }
+]
